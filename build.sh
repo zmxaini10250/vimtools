@@ -1,1 +1,1 @@
-~/.vim/bundle/install.py --clang-completer
+~/.vim/bundle/YouCompleteMe/install.py --clang-completer
